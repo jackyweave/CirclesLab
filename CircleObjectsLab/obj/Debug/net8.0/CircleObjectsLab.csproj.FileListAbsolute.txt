@@ -1,0 +1,15 @@
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.AssemblyInfoInputs.cache
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.AssemblyInfo.cs
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.csproj.CoreCompileInputs.cache
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.sourcelink.json
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\bin\Debug\net8.0\CircleObjectsLab.exe
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\bin\Debug\net8.0\CircleObjectsLab.deps.json
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\bin\Debug\net8.0\CircleObjectsLab.runtimeconfig.json
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\bin\Debug\net8.0\CircleObjectsLab.dll
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\bin\Debug\net8.0\CircleObjectsLab.pdb
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.dll
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\refint\CircleObjectsLab.dll
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.pdb
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.genruntimeconfig.cache
+C:\Users\jacky\projects\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\ref\CircleObjectsLab.dll
